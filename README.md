@@ -17,8 +17,35 @@ My primary source of Data used in this project is Data Sale.csv. This data can b
 - Ms Excel for Data cleaning [Download here](https://www.microsoft.com)
   - for collection
   - for Data Transformation
-    1. Data Manipulation
-    2. Data Munching 
+  1. Data Manipulation
+  2. Data Munching 
 - SQL Server ( for querying and Analysis)
-- Power BI (for creating a report)
+- Power BI (for creating a report) [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id.58494)
 - MS PowerPoint ( Presentation)
+
+### Data Cleaning and Preparation 
+
+At the initial phase of the Data cleaning and preparations, we perform the following action
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploration of the available data  to answer some questions about the prepared 
+data such as 
+- What is the overall sales record
+- Which products are the top sellers
+- What are the  products on peak sales?
+
+### Data Analysis 
+
+This where we include some basic line of code or queries or even some of the DAX expressions ued during your analysis
+
+ ```SQL 
+ SELECT A,B,C
+ WHERE A > 45
+
+```
+
+
+   
