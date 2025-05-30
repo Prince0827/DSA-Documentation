@@ -47,5 +47,7 @@ This where we include some basic line of code or queries or even some of the DAX
 
 ```
 
+### Analysis
 
+Open the folder where you have it, click, drag and drop it.  
    
