@@ -2,10 +2,11 @@
 
  My Tech Learning Journey at The Incubator Hub,  I started building my portfolio from  the inception of my DATA ANALYSIS class.
  
- I have also learnt a couple of skills, such as the usage of Excel to clean and transform structured data, Python for unstructured data, SQL for database queries and storage, 
- and Power BI for business reporting,and portfolio building 
+ I have also learnt a couple of skills, such as the usage of Excel tools such as Power Query Editor,to extract, perform data wrangling, and Pivot tables for Analysis and 
+ 
+ reporting. Also, Power BI for business Intelligence, and portfolio building 
 
-## Project Topic : E commerce Sales Analysis 
+## Project Topic : DSA Data Analysis Project
 
 ### Project Overview  
 
