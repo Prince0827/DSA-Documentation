@@ -1,18 +1,19 @@
-# DSA-Documentation 
-
- My Tech Learning Journey at The Incubator Hub,  I started building my portfolio from  the inception of my DATA ANALYSIS class.
+# DSA- Project Documentation 
+In my Tech Learning Journey at The Incubator Hub (DSA),  I started building
+my portfolio from the inception of my DATA ANALYSIS course, through 
+archiving all the videos of tutorials, keeping class notes,and personal
+practice.
+ I have also learnt a couple of skills, such as Excel V/Xlookup, Nesting, Concatenation, and numerous functions and shortcuts. The clincher for me is the deepening of my knowledge of the Power Query Editor and Power Pivot to extract, perform data wrangling, and join two tables to create pivot tables 
+for Analysis and presentation.
  
- I have also learnt a couple of skills, such as the usage of Excel tools such as Power Query Editor,to extract, perform data wrangling, and Pivot tables for Analysis and 
- 
- reporting. Also, Power BI for business Intelligence, and portfolio building 
+## Topic: DSA Data Analysis Capstone Project
 
-## Project Topic : DSA Data Analysis Project
 
 ### Project Overview  
 
 ### Data Source 
 
-My primary source of Data used in this project is Data Sale.csv. This data can be freely downloaded from open-source online platforms such as Kaggle, FRED, and Data.gov.
+My primary source of Data used in this project is Data Amazon Product Review Analysis.xls This data was supply by the DSA Admin
  
 ### Tools used
 - Ms Excel for Data cleaning [Download here](https://www.microsoft.com)
