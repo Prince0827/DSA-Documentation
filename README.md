@@ -40,17 +40,7 @@ data such as
 - What is the potential revenue
 - Which products are the top 3 by rating
 - Count of products by category
-
-### Data Analysis 
-
-This where we include some basic line of code or queries or even some of the DAX expressions ued during your analysis
-
- ```SQL 
- SELECT A,B,C
- WHERE A > 45
-
-```
-
+  
 ### Analysis
 
 Open the folder where you have it, click, drag and drop it.  
