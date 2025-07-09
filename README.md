@@ -42,6 +42,7 @@ data such as
 - Count of products by category
   
 ### Analysis
+![image](https://github.com/user-attachments/assets/ae65e909-9700-4385-8743-e9497fcab071)
 
-Open the folder where you have it, click, drag and drop it.  
+
    
