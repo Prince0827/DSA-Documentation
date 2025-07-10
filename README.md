@@ -33,7 +33,7 @@ My primary source of Data used in this project is the Amazon Product Review data
    
 ### Data Cleaning and Preparation 
 
-At the initial phase of the Data cleaning and preparations, we perform the following action
+At the initial phase of the Data cleaning and preparations, we perform the following actions
 1. Data quality and integrity
 2. Handling missing variables
 3. Data cleaning and formatting
@@ -47,6 +47,10 @@ data such as
   
 ### Analysis
 ![image](https://github.com/user-attachments/assets/ae65e909-9700-4385-8743-e9497fcab071)
+
+
+
+
 
 
 
