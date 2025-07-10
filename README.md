@@ -9,11 +9,11 @@ for Analysis and reporting.
 ## Topic: Amazon Product Review Analysis
 
 ### Project Overview  
-This Data Analysis Project aims to conduct an inquiry, identify challenges, and analyse various parameters in the data collected, which will provide insight and also form the bedrock for informed policies and decision-making regarding discounted products and consumer engagement at Amazon.
+This Data Analysis Project aims to conduct an inquiry, identify challenges, and analyse various parameters in the collected data, which will provide insight and form the basis for informed policies and decision-making regarding discounted products and consumer engagement at Amazon.
 
 ### Data Source 
 
-My primary source of Data used in this project is the Amazon Product Review data.xls file, which the DSA Admin supplied through the LMS
+My primary source of Data used in this project is the Amazon Product Review data.xlsx file, which the DSA Admin supplied through the LMS
  
 ### Tools used 
 1. Ms Excel Worksheet :
@@ -25,7 +25,11 @@ My primary source of Data used in this project is the Amazon Product Review data
 3. Pivot Table
    - for the Analysis and interpretation of data
 4. Dashboard
-   - for report and visual 
+   - for report and visual
+5. Power BI
+   - For Data modelling
+   - for Data Analysis
+   - for Advanced reporting
    
 ### Data Cleaning and Preparation 
 
@@ -43,6 +47,9 @@ data such as
   
 ### Analysis
 ![image](https://github.com/user-attachments/assets/ae65e909-9700-4385-8743-e9497fcab071)
+
+
+
 
 
    
