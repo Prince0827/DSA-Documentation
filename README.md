@@ -23,17 +23,17 @@ My primary source of Data used in this project is the Amazon Product Review data
    - for Data Manipulation and Transformation
    - for adding Calculated Columns and data quality
 3. Pivot Table
-   - for the Analysis and interpretation of data
+   - for the Analysis 
+   - for Data Modelling
+   - Data Interpretation
 4. Dashboard
-   - for report and visual
-5. Power BI
-   - For Data modelling
-   - for Data Analysis
-   - for Advanced reporting
+   - for presentation and visual
+   - Business report and intelligence
+   
    
 ### Data Cleaning and Preparation 
 
-At the initial phase of the Data cleaning and preparations, we perform the following actions
+At the initial phase of the Data cleaning and preparation, we perform the following actions
 1. Data quality and integrity
 2. Handling missing variables
 3. Data cleaning and formatting
