@@ -1,4 +1,4 @@
-# DSA Data Analysis Capstone Project
+# DSA- Excel-Project
 
 In my Tech Learning Journey at The Incubator Hub (DSA),  I started building
 my portfolio from the inception of my DATA ANALYSIS course, through archiving the videos of the tutorials, 
